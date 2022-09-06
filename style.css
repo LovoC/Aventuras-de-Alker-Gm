@@ -1,0 +1,27 @@
+body {
+text-align: center;
+background: linear-gradient(90deg, rgba(78,118,177,1) 0%, rgba(165,244,255,1) 47%, rgba(78,118,177,1) 100%);
+font-family: sans-serif;
+}
+
+h1 {
+    color: rgb(59, 117, 153);
+    border: #2b5272 10px dashed;
+}
+
+p {
+font-family: 'Gill Sans Mt';
+font-size: 25;
+
+}
+
+h2 {
+    color: rgb(59, 117, 153);
+border: rgb(206, 0, 0) 10px double;
+}
+
+h3 {
+    color: rgb(59, 117, 153);
+border: rgb(0, 96, 175) 10px double;
+font-size: 26;
+}
